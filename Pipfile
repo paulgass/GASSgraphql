@@ -1,0 +1,26 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+graphene = "*"
+graphene-sqlalchemy = "*"
+psycopg2-binary = "*"
+pylint = "*"
+requests = "*"
+jwt = "*"
+ipykernel = "*"
+python-dotenv = "*"
+Flask = "*"
+Flask-GraphQL = "*"
+SQLAlchemy = "*"
+Jinja2 = "*"
+MarkupSafe = "*"
+Flask-GraphQL-Auth = "*"
+Flask-Cors = "*"
+
+[requires]
+python_version = "3"

@@ -1,0 +1,15 @@
+Flask
+Flask-GraphQL
+graphene
+graphene-sqlalchemy
+SQLAlchemy
+Jinja2
+MarkupSafe
+psycopg2-binary
+pylint
+requests
+jwt
+flask-graphql-auth
+flask-cors
+ipykernel
+python-dotenv
